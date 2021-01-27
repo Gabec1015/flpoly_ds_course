@@ -1,23 +1,23 @@
-## First Name Last Name
+## Gabriel Carlson
 
-### Term Year 
+### Spring 2021
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Business Analytics Student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Entrepreneurial Opportunity Analysis
 
-- Course 2
+- Business Finance 
 
-- Course 3
+- Law Public Policy Negotiation and Business 
 
-- Course 4
+- Data Science 
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Weightlifting 
 
-- Thing 2
+- Surfing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Ultiate Frisbee as shown in this website <https://usaultimate.org/about/
