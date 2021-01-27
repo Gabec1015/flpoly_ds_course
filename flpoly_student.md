@@ -8,7 +8,7 @@ Business Analytics Student at [Florida Polytechnic University](https://www.flori
 
 - Business Finance 
 
-- Law Public Policy Negotiation and Business 
+- Law, Public Policy, Negotiation, and Business 
 
 - Data Science 
 
@@ -20,4 +20,4 @@ I am _passionate about_:
 
 - Surfing
 
-- Ultiate Frisbee as shown in this website <https://usaultimate.org/about/
+- Ultimate Frisbee as shown in this website <https://usaultimate.org/about/
